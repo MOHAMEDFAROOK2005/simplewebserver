@@ -1,4 +1,3 @@
-# EX01 Developing a Simple Webserver
 ## Date:7/04/2025
 
 ## AIM:
